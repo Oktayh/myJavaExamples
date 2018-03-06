@@ -1,0 +1,4 @@
+# myJavaExamples
+Challanges
+
+### README part

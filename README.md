@@ -1,8 +1,8 @@
-### myJavaExamples
+# myJavaExamples
  
  ## Challanges
  
- #  Question of Challange1
+ ###  Question of Challange1
  
  you will write a program that determines the type of metal by calculating its
 density given its mass, shape, and dimensions. Your program prompts use for the mass (in

@@ -26,9 +26,11 @@ level, i.e., |19.3-19.0| < 0.5.
   
   you will write a program that tests whether an integer number number consists
 of digit pairs whose sum is 10.
- A pair of digits is dened as the two digits whose positions are same from left and
+
+A pair of digits is dened as the two digits whose positions are same from left and
 right-hand side of a number.
- For example, given n=21798, 2 and 8 are paired with each other: 2 and 8 are the first
+
+ For example, given n=21798, 2 and 8 are paired with each other: 2 and 8 are the first
 digit from left and right-hand side, respectively. Similarly, 1 and 9 are a pair of digits
 as well.
 

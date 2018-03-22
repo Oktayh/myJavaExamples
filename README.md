@@ -4,7 +4,7 @@
  
  ###  Question of Challange1
  
- you will write a program that determines the type of metal by calculating its
+ You will write a program that determines the type of metal by calculating its
 density given its mass, shape, and dimensions. Your program prompts use for the mass (in
 gr) and the dimensions of the shape (in cm), respectively. If user enters
   one dimension value, then this shape must be a cube,
@@ -17,6 +17,29 @@ The density values are given in Lab4.java. If the density is found to be 19.0, t
 classified as gold because the density of gold is 19.3 and the difierence is within the tolerance
 level, i.e., |19.3-19.0| < 0.5.
  
+ ...
+ 
+ ...
+ 
+ 
+ ###  Question of Challange4 
+  
+  You will write a program that determines the type of metal by calculating its
+density given its mass, shape, and dimensions. Your program prompts use for the mass (in
+gr) and the dimensions of the shape (in cm), respectively. If user enters
+
+ - One dimension value, then this shape must be a cube,
+ - Two dimensions, this shape must be a cylinder (assume that the rst and second values
+are radius and height, respectively),
+ - Three dimensions, this shape must be a rectangular prism.
+ First you need to compute the volume of the shape and then the density ( = m
+v ). Finally,
+density2metal method determines which metal is it given the density value. Note that the
+error tolerance is specied as 0.5 in the program (to identify the density of the material).
+The density values are given in Lab4.java. If the density is found to be 19.0, this can be
+classied as gold because the density of gold is 19.3 and the dierence is within the tolerance
+level, i.e., j19:3 􀀀 19:0j < 0:5.
+  
  
 
 

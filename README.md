@@ -4,7 +4,7 @@
  
  ###  Question of Challange1
  
- you will write a program that determines the type of metal by calculating its
+ You will write a program that determines the type of metal by calculating its
 density given its mass, shape, and dimensions. Your program prompts use for the mass (in
 gr) and the dimensions of the shape (in cm), respectively. If user enters
   one dimension value, then this shape must be a cube,
@@ -17,6 +17,21 @@ The density values are given in Lab4.java. If the density is found to be 19.0, t
 classified as gold because the density of gold is 19.3 and the difierence is within the tolerance
 level, i.e., |19.3-19.0| < 0.5.
  
+ ...
  
+ ...
+ 
+ 
+ ###  Question of Challange4 
+  
+  you will write a program that tests whether an integer number number consists
+of digit pairs whose sum is 10.
+
+A pair of digits is dened as the two digits whose positions are same from left and
+right-hand side of a number.
+
+ For example, given n=21798, 2 and 8 are paired with each other: 2 and 8 are the first
+digit from left and right-hand side, respectively. Similarly, 1 and 9 are a pair of digits
+as well.
 
 
